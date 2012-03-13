@@ -1,4 +1,4 @@
-Snipmate snippets for [Elixir](http://elixir-lang.org)
+# Snipmate snippets for [Elixir](http://elixir-lang.org)
 
 ## Install
 * copy the files to your `~/.vim`
